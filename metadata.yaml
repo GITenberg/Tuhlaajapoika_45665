@@ -1,0 +1,45 @@
+_repo: Tuhlaajapoika_45665
+_version: 0.1.0
+alternative_title: The prodigal son. Finnish
+contributor:
+  translators:
+  - agent_name: Andelin, Väinö
+    alias: Andelin, Vaino
+    gutenberg_agent_id: '43401'
+    url: http://www.gutenberg.org/2009/agents/43401
+  - agent_name: Forsman, Kaarlo
+    alias: Koskimies, Kaarlo
+    birthdate: 1851
+    deathdate: 1918
+    gutenberg_agent_id: '7957'
+    url: http://www.gutenberg.org/2009/agents/7957
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Caine, Hall, Sir
+    aliases:
+    - Caine, Thomas Henry Hall, Sir
+    - Caine, T. Hall, Sir
+    birthdate: 1853
+    deathdate: 1931
+    gutenberg_agent_id: '591'
+    url: http://www.gutenberg.org/2009/agents/591
+    wikipedia: http://en.wikipedia.org/wiki/Hall_Caine
+description: ''
+gutenberg_issued: '2014-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45665'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Iceland -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Brothers -- Fiction'
+- !lcc 'PR'
+title: Tuhlaajapoika
+url: http://www.gutenberg.org/ebooks/45665
